@@ -15,4 +15,4 @@ During this internship, we worked on 3 differents prediction tasks:
 
 - In the last one, they had to do both tasks in the same time.
 
-![Prediction Motion Task](motionprediction.png)
+![Prediction Motion Task](motionprediction.PNG)
