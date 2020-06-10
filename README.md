@@ -19,4 +19,4 @@ We are living in a dynamic environment where moving object are often temporarily
 
 The participants performance for single and dual task were similar and it suggests that people can extrapolate through physical and number space simultaneously. This observation is in line with the real existence of a common rate control.
 
-The results has been published [here](https://www.biorxiv.org/content/biorxiv/early/2020/03/10/2020.03.10.985424.full.pdf)
+The results have been published [here](https://www.biorxiv.org/content/biorxiv/early/2020/03/10/2020.03.10.985424.full.pdf)
