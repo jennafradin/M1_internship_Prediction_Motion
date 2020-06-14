@@ -1,5 +1,7 @@
 # MSc Internship
 
+[![DOI:10.1101/2020.03.10.985424](https://zenodo.org/badge/DOI/10.1101/2020.03.10.985424.svg)](https://doi.org/10.1101/2020.03.10.985424)
+
 
 Internship under the supervision of [Robin Baures](http://cerco.ups-tlse.fr/) and [Tushar Chauhan](http://cerco.ups-tlse.fr/)
 
@@ -20,3 +22,5 @@ We are living in a dynamic environment where moving object are often temporarily
 The participants performance for single and dual task were similar and it suggests that people can extrapolate through physical and number space simultaneously. This observation is in line with the real existence of a common rate control.
 
 The results have been published [here](https://www.biorxiv.org/content/biorxiv/early/2020/03/10/2020.03.10.985424.full.pdf)
+
+
