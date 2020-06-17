@@ -3,7 +3,7 @@
 
 Internship under the supervision of [Robin Baures](http://cerco.ups-tlse.fr/) and [Tushar Chauhan](http://cerco.ups-tlse.fr/)
 
-## Main objectif
+## Main objective
 
 We are living in a dynamic environment where moving object are often temporarily occluded and its sometimes necessary to estimate the exact position of this occluded object. People can also track the current number on a hidden stopwatch. Previous work has suggested that a common rate control module paces mental updating in both physical space and number-space. We tested this by comparing single and dual task conditions using 3 differents psychophysics tasks:
 
